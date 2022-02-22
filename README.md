@@ -17,5 +17,4 @@
 #### contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=100078689373767) <br><br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/angryymann) <a href="https://github.com/angryymann">My github</a>  
-#
-<img src="https://github.com/angryymann/blob/main/Ngentod/status_me_status_90e259db678545f49a41faf12e095d58.jpg" width="640" title="Menu" alt="Menu">
+
